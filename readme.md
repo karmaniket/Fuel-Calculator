@@ -1,6 +1,6 @@
 <h1 align="center">Fuel Calculator</h1>
 
-**Fuel Calculator** is a simple web application for bikers and drivers that estimates total fuel required and total fuel cost for their journey, So if you are at the fuel pump and want to know how much fuel and budget you will need for your trip quickly, then this [app](https://fuelcalculator.pages.dev/) is for you!
+**Fuel Calculator** is a simple web application for bikers and drivers that estimates total fuel required and total fuel cost for their journey. So if you are at the fuel pump and want to know how much fuel and budget you will need for your trip quickly, then this [app](https://fuelcalculator.pages.dev/) is for you!
 
 ## Demo
 
