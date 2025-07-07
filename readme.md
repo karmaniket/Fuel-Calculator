@@ -20,8 +20,10 @@
 
 ### 1. Clone the repository
 
+```bash
     git clone https://github.com/karmaniket/Fuel-Calculator.git
     cd Fuel-Calculator
+```
 
 ### 2. Deploy on Cloudflare
 
@@ -33,8 +35,8 @@
 
 - Simply select your preferred distance unit
 - Enter the total trip distance
-- Enter your vehicle's mileage
-- Choose the fuel type you use
+- Enter your vehicle's mileage (kilometers per liter/miles per gallon)
+- Choose the fuel type
 - Enter the current fuel price
 - Select your currency
 - Click on "Calculate" to get the total fuel required and total cost
